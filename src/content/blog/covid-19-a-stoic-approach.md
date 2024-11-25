@@ -2,7 +2,15 @@
 date: "2020-05-13"
 draft: true
 title: Covid 19 a Stoic Approach
-tag: post
+author: Arron
+categories: 
+    - Philosophy
+    - Self Reflection
+tags: 
+    - Stoicism
+    - Covid-19
+    - Self Reflection
+summary: A stoic approach to dealing with the Covid-19 pandemic, emphasizing self-reflection, safety, and mutual respect.
 
 ---
 

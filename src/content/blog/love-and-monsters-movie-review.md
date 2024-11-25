@@ -1,8 +1,17 @@
 ---
 date: "2021-04-06"
 tag: post
-
 title: Love and Monsters - Movie Review
+author: Arron
+categories: 
+    - Movie Review
+    - Entertainment
+tags: 
+    - Love and Monsters
+    - Movie
+    - Review
+summary: A review of the movie "Love and Monsters," discussing its visuals, characters, and overall impression.
+
 ---
 I liked this movie. After watching the trailer and seeing the monsters I knew I had to see it. The visuals in this movie are exceptional. The environment design gave me Annihilation (2018) vibes, which is a good thing. There are plenty of gorgeous landscape shots that made me go "wow this definitely is not California"; turns out the movie was shot in Australia.
 

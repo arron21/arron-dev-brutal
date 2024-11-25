@@ -2,8 +2,15 @@
 date: "2022-09-19"
 draft: false
 title: Don't waste your creative energy
+author: Arron
+categories: 
+    - Creativity
+    - Workplace
 tags: 
-    - work
+    - Creative Energy
+    - Job Satisfaction
+    - Personal Projects
+summary: A discussion on how to effectively channel your creative energy in the workplace and the importance of pursuing personal projects when your job doesn't align with your creative vision.
 
 ---
 So you are a software developer, artist, creative.

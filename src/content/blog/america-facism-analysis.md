@@ -2,7 +2,17 @@
 draft: false
 title: America/Facism Analysis
 date: "2019-09-12"
-tag: post
+categories: 
+    - Politics
+    - Analysis
+tags: 
+    - Fascism
+    - America
+    - Trump Administration
+summary: An analysis of the 14 defining points of fascism by Dr. Lawrence Britt in the context of the Trump administration.
+featured: true
+author: Arron
+pubDate: "2019-09-12"
 
 ---
 I have replied to the 14 points detailed by Dr. Lawrence Britt on the 'Defining Points of Fascism'

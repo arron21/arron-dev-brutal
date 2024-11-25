@@ -3,6 +3,15 @@ title: "I went to the dentist"
 date: "2019-03-07"
 draft: false
 tag: post
+author: Arron
+categories: 
+    - Personal
+    - Health
+tags: 
+    - Dentist
+    - Health
+    - Self-care
+summary: A personal account of a dentist visit and the importance of taking care of one's health, both physical and mental.
 
 ---
 

@@ -2,7 +2,16 @@
 date: "2020-12-08"
 title: Covid Statistics
 tag: post
-
+author: Arron
+categories: 
+    - Health
+    - Statistics
+tags: 
+    - Covid-19
+    - Pandemic
+    - Statistics
+summary: An analysis of Covid-19 statistics from different countries and a reflection on the impact of the pandemic.
+image: "/images/covid-statistics.png"
 ---
 
 <h2>Just looking at some of these numbers makes my country, the USA, look pretty bad</h2>

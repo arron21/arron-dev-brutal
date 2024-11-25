@@ -2,7 +2,17 @@
 date: "2020-04-26"
 title: Covid 19, Corona, and Our Way of Life
 tag: post
-
+summary: A reflection on the impact of COVID-19 on our way of life and the necessary changes we must adopt to navigate through the pandemic.
+categories: 
+    - Society
+    - Health
+tags: 
+    - COVID-19
+    - Pandemic
+    - Government
+    - Economy
+    - Quarantine
+    - Vaccine
 ---
 I should have written this back in February, when the COVID-19 crisis began to worsen. 
 

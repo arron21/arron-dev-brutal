@@ -2,9 +2,16 @@
 draft: false
 date: "2024-05-31"
 title: Angular event instanceof NavigationEnd
-tags:
-  - post
-  - ssg
+featured: true
+author: Arron
+categories: 
+  - Programming
+  - Angular
+tags: 
+  - Angular
+  - Navigation
+  - Router
+summary: A detailed explanation of handling Angular NavigationEnd events and the importance of using `urlAfterRedirects` instead of `url`.
 
 ---
 
