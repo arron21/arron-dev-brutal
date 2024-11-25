@@ -3,6 +3,11 @@ date: "2019-10-12"
 title: We live in an Age of Communication
 draft: false
 tag: post
+author: Required
+tags: Required
+description: Required
+pubDate: Required
+mgUrl: Required
 ---
 
 At this particular time in history, there has never been greater opportunity for humans across the planet to communicate with one another. Morse code, the Internet, satellite phones, the amount of technological growth in such a short time is nothing to squawk at.
