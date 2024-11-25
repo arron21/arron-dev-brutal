@@ -12,7 +12,8 @@ tags:
   - Navigation
   - Router
 summary: A detailed explanation of handling Angular NavigationEnd events and the importance of using `urlAfterRedirects` instead of `url`.
-
+description: Required
+imgUrl: '../../assets/astro.jpeg'
 ---
 
 I had a line of code that looked like <code>let last = event.url.split("/").pop();</code>
